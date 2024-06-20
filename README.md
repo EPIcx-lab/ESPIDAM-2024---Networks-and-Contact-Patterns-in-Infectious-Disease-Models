@@ -6,7 +6,7 @@ For these practical lessons, we will use Python facilitated by Jupyter for inter
 
 **Recommended**
 1) If Jupyter isn't already on your system, start by downloading Anaconda from [here](https://www.anaconda.com/download) and follow the installation instructions for your operating system.
-2) Once Anaconda is installed, simply open Anaconda Navigator and launch Jupyter Notebook.
+2) Once Anaconda is installed, simply open Anaconda Navigator and launch JupyterLab (or Jupyter Notebook).
 3) Additionally, we require a set of libraries: pandas, numpy, matplotlib, geopandas, and statsmodels. You can install these with either `conda install pandas numpy matplotlib geopandas statsmodels` or `pip install pandas numpy matplotlib geopandas statsmodels` in your terminal or command prompt.
 
 **Alternative**  
