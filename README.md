@@ -11,7 +11,7 @@ For these practical lessons, we will use Python facilitated by Jupyter for inter
 
 **Alternative**  
 If you encounter issues running Jupyter on your computer, an alternative option is available on Google Colab, where you can execute the entire code online without any local installation. Access the notebooks at the following links:
-- [Lab I](https://colab.research.google.com/drive/12j3O-xnUsnSN7agSdaM6zbV78tMbbBHc)
+- [Lab I](https://colab.research.google.com/drive/1DtYxuOieAP0TaGZ061fW8FpYCSFsOzxr)
 - [Lab II part I]()
 - [Lab II part II]()
 
